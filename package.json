@@ -22,15 +22,15 @@
   "author": "Austin Middleton",
   "license": "MIT",
   "dependencies": {
-    "debug": "^2.2.0",
-    "k-bucket": "^3.0.2",
-    "simple-peer": "^6.0.4",
-    "ws": "^1.1.1"
+    "debug": "3.1.0",
+    "k-bucket": "4.0.1",
+    "simple-peer": "9.1.2",
+    "ws": "5.2.0"
   },
   "devDependencies": {
-    "browserify": "^13.1.0",
-    "electron-webrtc": "^0.2.7",
-    "mocha": "^2.5.3",
-    "standard": "^7.1.2"
+    "browserify": "16.2.2",
+    "electron-webrtc": "0.3.0",
+    "mocha": "5.2.0",
+    "standard": "11.0.1"
   }
 }
