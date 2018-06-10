@@ -1,6 +1,5 @@
 #  peer-relay 
 --------------------
-- updated and patched 2018-06-10
 - usage:
 ```
 npm install
